@@ -14,8 +14,9 @@ This project helps to understand how different sorting algorithms work through r
 * Multiple sorting algorithms such as:
 
   * Bubble Sort
-  * Selection Sort
-  * Insertion Sort
+  * Heap soet
+  * Selection sort
+  * Insertion sort
   * Merge Sort
   * Quick Sort
 
